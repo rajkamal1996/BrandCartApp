@@ -1,0 +1,44 @@
+<div class="container-fluid"  style=" background-image: url('assets/bg4.jpg');">
+    <div class="row">
+       <div class="col-md-3">
+       </div>
+       <div class="col-md-6">
+          <form #signupForm="ngForm" (ngSubmit)="signupSubmit(credentials)">
+          <div class="form-group">
+             <label>{{'HOME.NAME'  | translate}}</label>
+             <input type="text" #nameTag="ngModel" minlength="4" class="form-control" name="name" [(ngModel)]="credentials.name" placeholder="{{'HOME.NAME'  | translate}}" required>
+             <div [hidden]="nameTag.valid|| nameTag.pristine" class="alert alert-danger">
+                Please Enter a valid name and name must contain minimum of 4 letters
+             </div>
+          </div>
+          <div class="form-group">
+             <label>{{'HOME.EMAIL' | translate}}</label>
+             <input type="email" #emailTag="ngModel" minlength="4" maxlength="30" class="form-control" name="email" [(ngModel)]="credentials.email"  placeholder="{{'HOME.EMAIL'  | translate}}" required>
+             <div *ngIf="emailTag.errors && (emailTag.dirty || emailTag.touched)" class="alert alert-danger">
+                <div [hidden]="!emailTag.errors.required">
+                   Please enter your email
+                </div>
+                <div [hidden]="!emailTag.errors.minlength">
+                   please enter email with minimum of 4 characters 
+                </div>
+             </div>
+          </div>
+          <div class="form-group">
+             <label>{{'HOME.PASSWORD'  | translate}}</label>
+             <input type="password" #passwordTag="ngModel" minlength="6" maxlength="9" class="form-control" name="pwd" [(ngModel)]="credentials.pwd"  placeholder="{{'HOME.PASSWORD'  | translate}}" required>
+             <div *ngIf="passwordTag.errors && (passwordTag.dirty || passwordTag.touched)" class="alert alert-danger">
+                <div [hidden]="!passwordTag.errors.required">
+                   Please enter your password
+                </div>
+                <div [hidden]="!passwordTag.errors.minlength">
+                   please enter password with minimum of 6 characters 
+                </div>
+             </div>
+          </div>
+          <button [disabled]="!signupForm.form.valid" type="submit" class="btn btn-primary">Submit</button>
+          </form>         
+       </div>
+       <div class="col-md-3">
+       </div>
+    </div>
+ </div>

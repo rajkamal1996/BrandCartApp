@@ -1,0 +1,27 @@
+<div class="container-fluid">
+    <div class="row" style="height:500px">
+       <div class="col-md-12" style="color:aliceblue">
+          <h3 style="text-align:center">{{ 'BRAND CART' | translate }}</h3>
+          <br>
+          <div class="row">
+             <div class="col-xs-10 col-xs-offset-1">
+                <form action="#" method="#" role="search">
+                   <div class="input-group">
+                      <input class="form-control" placeholder="Search . . ."  [(ngModel)]="brandName" name="brandName" id="ed-srch-term" type="text">
+                      <div class="input-group-btn">
+                         <button type="submit" id="searchbtn">
+                         search</button>
+                      </div>
+                   </div>
+                </form>
+             </div>
+          </div>
+          <br>
+          <div class="style_prevu_kit col-md-4" (click)="onSelect(brand)" *ngFor="let brand of Mapdata  | filterpipe : brandName | unique : 'brand'  " [style.background-color]="brand.color">
+          <br>   
+          <img src='assets/{{brand.brand}}.png' height="55px" width="70px"/>
+          <br> {{'HOME.'+brand.brand | translate}}                        
+       </div>
+    </div>
+ </div>
+ </div>

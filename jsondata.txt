@@ -1,0 +1,501 @@
+[{
+	"blink": "https://www.nike.com/Experience",
+	"brand": "NIKE",
+	"btitle": "NIKE, Inc.â€” Inspiration and Innovation for Every Athlete in the World.",
+	"descriptions": "sports, training, shopping and everything else thats new at Nike from any country in the world.",
+	"laddress": "New No. 52, Old No. 100, Chellam Towers, LB Road, Adyar, (Nearby Ganapathy Ram Theatre), Chennai, Tamil Nadu 600020",
+	"latitude": 33.3333,
+	"lid": 1,
+	"location": "CHENNAI",
+	"longitude": -121.42301
+}, {
+	"blink": "http://shop.adidas.co.in/?",
+	"brand": "ADIDAS",
+	"btitle": "adidas.co.in - adidasÂ® Official Shop - Buy adidas Shoes \u0026 Clothing",
+	"descriptions": "adidas New Collection Clothing, Footwear \u0026 Sports Gear. Shop Now\r\nCash on Delivery Â· Free 30-Day Returns Â· Free Shipping\r\nCategories: Men, Women, Kids",
+	"laddress": "Shop No. 4/31, East Coast Road, Palavakkam, Chennai, Tamil Nadu 600041",
+	"latitude": 13.029681,
+	"lid": 2,
+	"location": "CHENNAI",
+	"longitude": 80.25646
+}, {
+	"blink": "https://shop.adidas.co.in/",
+	"brand": "ADIDAS",
+	"btitle": "adidas Official Shop | adidas",
+	"descriptions": "Welcome to adidas Shop for adidas shoes, clothing and view new collections for adidas Originals, running, football, training and much more.\r\nMen Shoes\r\nadidas Mens Footwear - Shop online for adidas men shoes ...\r\nWomen Shoes\r\nadidas Womens Footwear - Shop online for adidas women shoes ...",
+	"laddress": "No. G-56, Ground Floor, No. 142, Velachery Rd, Indira Gandh Nagar, Velachery, Chennai, Tamil Nadu 600042",
+	"latitude": 13.013173,
+	"lid": 3,
+	"location": "CHENNAI",
+	"longitude": 80.22264
+}, {
+	"blink": "https://twitter.com/adidas",
+	"brand": "ADIDAS",
+	"btitle": "adidas (@adidas) Â· Twitter",
+	"descriptions": "All this way out to find the way in. #NotMadeForNormal #ClimaHeat pic.twitter.com/WUvg0tSâ€¦\r\nThe path of most resistance. The Cilmaheat collection will carry you through even the harshest of conditions. #NotMadeForNormal #Climaheat pic.twitter.com/gXUGbc1â€¦\r\n",
+	"laddress": "Anna Salai, Little Mount, West Saidapet, Chennai, Tamil Nadu 600015",
+	"latitude": 13.003974,
+	"lid": 4,
+	"location": "CHENNAI",
+	"longitude": 80.25686
+}, {
+	"blink": "https://www.adidas.co.in/",
+	"brand": "ADIDAS",
+	"btitle": "adidas Official Website | adidas",
+	"descriptions": "Welcome to adidas Shop for adidas shoes, clothing and view new collections for adidas Originals, running, football, training and much more.\r\n",
+	"laddress": "185/5, Medavakkam Main Road, Adambakkam, (near Jayalakshmi Theatre), Chennai, Tamil Nadu 600088",
+	"latitude": 12.990988,
+	"lid": 5,
+	"location": "CHENNAI",
+	"longitude": 80.19859
+}, {
+	"blink": "https://www.youtube.com/user/adidasoriginals\r\n",
+	"brand": "ADIDAS",
+	"btitle": "adidas Originals - YouTube",
+	"descriptions": "adidas Originals official YouTube Channel. Shop now at: http://a.did.as/Originals Find us online at: Instagram: http://www.instagram.com/adidasoriginals Face...",
+	"laddress": "No. 65, TTK Road, K.G.Complex, Alwarpet, Opposite Sankara Hall, Chennai, Tamil Nadu 600018",
+	"latitude": 12.959208,
+	"lid": 6,
+	"location": "CHENNAI",
+	"longitude": 80.255875
+}, {
+	"blink": "https://www.acer.com/ac/en/IN/content/home",
+	"brand": "ACER",
+	"btitle": "Acer India",
+	"descriptions": "Acers product range includes laptop and desktop PCs, tablets, smartphones, monitors, projectors and cloud solutions for home users, business, government ...\r\n?Acer Gaming Â· ?Acer Answers Â· ?Servers | Acer Â· ?Laptops",
+	"laddress": "No.5/3, 2nd Floor,1st Street,, Nandanam Extension,, Chennai, Tamil Nadu 600035",
+	"latitude": 12.995842,
+	"lid": 7,
+	"location": "CHENNAI",
+	"longitude": 80.25593
+}, {
+	"blink": "https://twitter.com/Acer\r\n",
+	"brand": "ACER",
+	"btitle": "Acer (@Acer) Â· Twitter",
+	"descriptions": "Sit back and let the ultra-thin #Swift7 do the bulk of the work for you. spr.ly/60198hq23 pic.twitter.com/CHh7GpUâ€¦\r\nWe eliminated the fan and replaced it with the ultra-quiet, ultra-cool dual #LiquidLoop. spr.ly/60138CIGd pic.twitter.com/xCg7o0Oâ€¦\r\n",
+	"laddress": "Shop No: 29, West Sivan Koil Street, Vadapalani, Chennai, Tamil Nadu 600026",
+	"latitude": 13.006049,
+	"lid": 8,
+	"location": "CHENNAI",
+	"longitude": 80.25691
+}, {
+	"blink": "https://www.acer.com/",
+	"brand": "ACER",
+	"btitle": "Acer",
+	"descriptions": "Acers product range includes laptop and desktop PCs, tablets, smartphones, monitors, projectors and cloud solutions for home users, business, government ...\r\n?Acer India Â· ?Acer Â· ?Acer Gaming Â· ?Contact Acer",
+	"laddress": "Old No. 19, New No. 68, GST Road, Srirampuram, Thousand Lights West, Tambaram Sanatorium, Chennai, Tamil Nadu 600047",
+	"latitude": 12.989323,
+	"lid": 9,
+	"location": "CHENNAI",
+	"longitude": 80.21365
+}, {
+	"blink": "https://www.acer.com/ac/en/IN/content/group/laptops\r\n",
+	"brand": "ACER",
+	"btitle": "Acer Laptop - Laptops | Acer",
+	"descriptions": "Visit the official Acer site and learn more about our Laptops and versatile home, education and professional solutions.",
+	"laddress": "4/345 ,1st floor,Old Mahabalipuram Road(OMR), Nehru Nagar, Kottivakkam, perungudi, Chennai, Tamil Nadu 600041",
+	"latitude": 12.968581,
+	"lid": 10,
+	"location": "CHENNAI",
+	"longitude": 80.18928
+}, {
+	"blink": "https://en.wikipedia.org/wiki/Acer_Inc",
+	"brand": "ACER",
+	"btitle": "Acer Inc. - Wikipedia",
+	"descriptions": "Acer Inc is a Taiwanese multinational hardware and electronics corporation specializing in advanced electronics technology and is headquartered in Xizhi, New ...",
+	"laddress": "No, Landmark Next to Ganapathiram Theatre, 105, LB Rd, Baktavatsalm Nagar, Adyar, Chennai, Tamil Nadu 600020",
+	"latitude": 12.989825,
+	"lid": 11,
+	"location": "CHENNAI",
+	"longitude": 80.21297
+}, {
+	"blink": "https://www.snapdeal.com â€º Brands",
+	"brand": "ACER",
+	"btitle": "Acer India: Buy Acer Laptops, Desktop Computers, Monitors ...",
+	"descriptions": "Snapdeal.com: Buy Acer products Online at best price in india. ... Acer Aspire ES1-572 Notebook Core i3 (6th Generation) 4 GB 39.62cm(15.6) Linux Not ...",
+	"laddress": "Shop No.A2 Nagappa Complex, 10/34 Narasingapuram Street, Anna Salai, Triplicane, Chennai, Tamil Nadu 600002",
+	"latitude": 12.945997,
+	"lid": 12,
+	"location": "CHENNAI",
+	"longitude": 80.23906
+}, {
+	"blink": "https://www.youtube.com/user/Acer",
+	"brand": "ACER",
+	"btitle": "Acer - YouTube",
+	"descriptions": "Welcome to the Acer Global YouTube channel! Stay up with the times: watch how our technology and products evolve to answer all you daily needs.",
+	"laddress": "no 6,1st floor,Arjuns Tower,100ft rd,, Chennai, Tamil Nadu 600026",
+	"latitude": 13.068094,
+	"lid": 13,
+	"location": "CHENNAI",
+	"longitude": 80.27082
+}, {
+	"blink": "https://www.flipkart.com/laptops/acer~brand/pr?sid=6bo,b5g\r\n",
+	"brand": "ACER",
+	"btitle": "Acer Laptops - Buy Acer Laptop Online at Best Prices In India | Flipkart ...",
+	"descriptions": "Acer Laptops - Buy Latest Acer Laptop at Indias Best Online Shopping Store. Check Price in India and Buy Online. Free Shipping and Home Delivery at ...",
+	"laddress": "#7 (Old No 38) Sharmi Devi Plaza, Near Cafe Coffee Day, Sardar Patel Rd, Little Mount, Guindy, Chennai, Tamil Nadu 600032",
+	"latitude": 13.059733,
+	"lid": 14,
+	"location": "CHENNAI",
+	"longitude": 80.24884
+}, {
+	"blink": "https://www.amazon.in/Acer-Laptops/b?ie=UTF8\u0026node=4364645031",
+	"brand": "ACER",
+	"btitle": "Acer Laptops: Buy Acer Laptops Online at Best Prices in India ...",
+	"descriptions": "Results 1 - 24 of 241 - Amazon.in: Buy wide range of Acer Laptops online at Best prices in India. Browse latest Acer Laptops such as Aspire E Series, Aspire V ...",
+	"laddress": "Shop No. S021, Ground Floor, Express Avenue,, Royapettah, Express Estate, Chennai, Tamil Nadu 600002",
+	"latitude": 13.052543,
+	"lid": 15,
+	"location": "CHENNAI",
+	"longitude": 80.21125
+}, {
+	"blink": "https://www.apple.com/in/",
+	"brand": "APPLE",
+	"btitle": "Apple (India)",
+	"descriptions": "Announcements included the new iPhone X and iPhone 8, Apple Watch Series 3, Apple TV 4K and much more.\r\niPhone\r\nExplore iPhone, the worlds most powerful personal device ...\r\nWhere to Buy\r\nFind out where to buy Apple products online, in a retail store ...",
+	"laddress": "UG 26, Forum Vijaya Mall, Arcot Road, Vadapalani, Chennai, Tamil Nadu 600026",
+	"latitude": 13.058725,
+	"lid": 16,
+	"location": "CHENNAI",
+	"longitude": 80.26481
+}, {
+	"blink": "https://locate.apple.com/in/en/",
+	"brand": "APPLE",
+	"btitle": "Apple - Find Locations",
+	"descriptions": "Find Apple Authorized Resellers, Apple Authorized Service Providers, and ...",
+	"laddress": "Ramakrishna Nagar, Mandaveli, Chennai, Tamil Nadu 600028",
+	"latitude": 13.060397,
+	"lid": 17,
+	"location": "CHENNAI",
+	"longitude": 80.24833
+}, {
+	"blink": "https://www.youtube.com/user/Apple",
+	"brand": "APPLE",
+	"btitle": "Apple - YouTube",
+	"descriptions": "Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, A...",
+	"laddress": "11/9, Varadapuram, Kotturpuram, Chennai, Tamil Nadu 600085",
+	"latitude": 13.073942,
+	"lid": 18,
+	"location": "CHENNAI",
+	"longitude": 80.22103
+}, {
+	"blink": "http://imaginestore.org/",
+	"brand": "APPLE",
+	"btitle": "Imagine store â€“ Apple Premium Reseller",
+	"descriptions": "Showcasing the entire Apple product line in a customer-friendly environment, Imagine is present in Bengaluru, Chennai, Hyderabad, Kochi \u0026 Calicut.",
+	"laddress": "No 100 charmina store, Alwarpet, Chennai, Tamil Nadu 600018",
+	"latitude": 13.086984,
+	"lid": 19,
+	"location": "CHENNAI",
+	"longitude": 80.21365
+}, {
+	"blink": "https://en.wikipedia.org/wiki/Apple_Inc",
+	"brand": "APPLE",
+	"btitle": "Apple Inc. - Wikipedia",
+	"descriptions": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, ...",
+	"laddress": "19/1A,, Sundaram Ln, Salama Nagar, Purasaiwakkam, Chennai, Tamil Nadu 600007",
+	"latitude": 13.046183,
+	"lid": 20,
+	"location": "CHENNAI",
+	"longitude": 80.18911
+}, {
+	"blink": "https://www.theverge.com/apple",
+	"brand": "APPLE",
+	"btitle": "Apple - The Verge",
+	"descriptions": "Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple is best known for making some of the worlds most ubiquitous consumer devices, ...",
+	"laddress": "G N Cheety Road Phothys Boutique T Ngar, Chennai, Tamil Nadu 600017",
+	"latitude": 12.983798,
+	"lid": 21,
+	"location": "CHENNAI",
+	"longitude": 80.18807
+}, {
+	"blink": "gadgets.ndtv.com/mobiles/apple-phones",
+	"brand": "APPLE",
+	"btitle": "Apple Mobile Phones : Latest \u0026 New Mobile Phones List",
+	"descriptions": "List of all the latest and new apple mobile phones. Founded in a garage in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple began as a personal ...",
+	"laddress": "Pallavan Nagar, Maduravoyal, Chennai, Tamil Nadu 600095",
+	"latitude": 12.964227,
+	"lid": 22,
+	"location": "CHENNAI",
+	"longitude": 80.24455
+}, {
+	"blink": "http://www.schwarzwald-maria.de/black-forest?",
+	"brand": "BLACK FOREST",
+	"btitle": "Black Forest Shop - Original high quality products?",
+	"descriptions": "Original Black Forest store. High quality - shipping worldwide\r\nWood CarvingHoney and JamMore Black ForestBlack Forest HamCuckoo Clocks",
+	"laddress": "No.15,Indian complex,opp mgr university,viswha nagar,, Chennai, Tamil Nadu 600095",
+	"latitude": 13.092796,
+	"lid": 23,
+	"location": "CHENNAI",
+	"longitude": 80.250206
+}, {
+	"blink": "https://www.cakesworld.in/cake/black-forest-cake",
+	"brand": "BLACK FOREST",
+	"btitle": "Black Forest | Order Cake Online | Cake Shops in Chennai | Cake ...",
+	"descriptions": "Dona Cakes World - Cake Shops Chennai, Birthday Cakes, Anniversary Cakes, ... Black Forest \u0026 Kitkat - 1 Kg. Rs. 850 Order NowView Â· Black Forest - 1 Kg.",
+	"laddress": "Door No 123 Shop No 12 Ground Floor Arihant Vaikunt Complex Bricklin Road, Chennai, Tamil Nadu 600007",
+	"latitude": 13.056679,
+	"lid": 24,
+	"location": "CHENNAI",
+	"longitude": 80.17948
+}, {
+	"blink": "http://www.blaackforest.com/",
+	"brand": "BLACK FOREST",
+	"btitle": "BLAACK FOREST",
+	"descriptions": "WELCOME TO BLAACK FOREST. BLAACK FOREST, is committed to provide world class conveniences to the Indian bakery Industry. With our various activities, ...",
+	"laddress": "Anna Salai, Little Mount, West Saidapet, Chennai, Tamil Nadu 600015",
+	"latitude": 13.044638,
+	"lid": 25,
+	"location": "CHENNAI",
+	"longitude": 80.23922
+}, {
+	"blink": "https://www.zomato.com/India/Chennai",
+	"brand": "BLACK FOREST",
+	"btitle": "Black Forest Cake in Chennai - Zomato",
+	"descriptions": "View all restaurants serving Black Forest Cake in Chennai. Black Forest Cake in Chennai - View Menus, Photos, Reviews and Information for restaurants ...",
+	"laddress": "New No. 55, Old No. 100, Chellam Towers, LB Road, Adyar, (Nearby Ganapathy Ram Theatre), Chennai, Tamil Nadu 600020",
+	"latitude": 13.033266,
+	"lid": 26,
+	"location": "CHENNAI",
+	"longitude": 80.25364
+}, {
+	"blink": "https://thecakeworld.in/\r\n",
+	"brand": "BLACK FOREST",
+	"btitle": "Cake Delivery in Chennai | Online Cake Order Chennai | The Cake ...",
+	"descriptions": "The Cake World is a well renowned exclusive retail cake shop in Chennai, taking orders and ... FKG Black Currant Cake ... FKG GERMAN BLACK FOREST.",
+	"laddress": "Shop No. 4/4541, East Coast Road, Palavakkam, Chennai, Tamil Nadu 600041",
+	"latitude": 12.984428,
+	"lid": 27,
+	"location": "CHENNAI",
+	"longitude": 80.24471
+}, {
+	"blink": "https://www.facebook.com/cakeshopblackforest/",
+	"brand": "BLACK FOREST",
+	"btitle": "Black Forest cake shop - Home | Facebook",
+	"descriptions": "Black Forest cake shop, Nicosia, Cyprus. 487 likes Â· 2 talking about this. Grocery Store.Phone, +91 89404 84079 Â· Address. Perundurai Main Road ,palayapalayam Erode Near Ganesh T.v.s Show Room Opps Erode.",
+	"laddress": "No. G-55454, Ground Floor, No. 142, Velachery Rd, Indira Gandh Nagar, Velachery, Chennai, Tamil Nadu 600042",
+	"latitude": 12.95967,
+	"lid": 28,
+	"location": "CHENNAI",
+	"longitude": 80.24334
+}, {
+	"blink": "http://www.coalbarbecues.com/",
+	"brand": "COAL BARBEQUE",
+	"btitle": "COAL BARBEQUE",
+	"descriptions": "17-18, Rajalakshmi Nagar, 7th Cross Street, 100 Feet Bypass Road, Velachery, Chennai. ... Believe me its the best BBQ in the town. ... Team buffet dinner- spotted this place to bring all my teammates and were exciting to have nitrogen biscuit.Coal Barbecues Velachery Menu - View the Menu for Coal Barbecues ...",
+	"laddress": "454 Anna Salai, Little Mount, West Saidapet, Chennai, Tamil Nadu 600015",
+	"latitude": 12.985937,
+	"lid": 29,
+	"location": "CHENNAI",
+	"longitude": 80.2181
+}, {
+	"blink": "https://www.dominos.co.in/\r\n",
+	"brand": "DOMINOS",
+	"btitle": "Dominos Pizza - Online Ordering, Dining, Take Away, Pizza ...",
+	"descriptions": "Order Dominos Pizza Online for Fresh and Quality Pizzas! Find Near-by Stores, Menu, Deals, Discount Vouchers \u0026 Special Offers.\r\nChennai\r\nFind Dominos pizza restaurants in Chennai, address, phone ...\r\nDominos Pizza Menu - ADYAR\r\nPizza home delivery available, contact us at ... Dominos Pizza ...",
+	"laddress": "185/545, Medavakkam Main Road, Adambakkam, (near Jayalakshmi Theatre), Chennai, Tamil Nadu 600088",
+	"latitude": 12.957745,
+	"lid": 30,
+	"location": "CHENNAI",
+	"longitude": 80.24428
+}, {
+	"blink": "https://twitter.com/dominos",
+	"brand": "DOMINOS",
+	"btitle": "Dominos Pizza (@dominos) Â· Twitter",
+	"descriptions": "ITS FRIDAY, FRIDAY, GOTTA EAT PIZZA ON FRIDAY! pic.twitter.com/X2kypAGâ€¦\r\nWe ordered pizza for dinner ??! #Happiest5WordSentence pic.twitter.com/wQiFOt5â€¦\r\n",
+	"laddress": "No. 6545, TTK Road, K.G.Complex, Alwarpet, Opposite Sankara Hall, Chennai, Tamil Nadu 600018",
+	"latitude": 12.93332,
+	"lid": 31,
+	"location": "CHENNAI",
+	"longitude": 80.208916
+}, {
+	"blink": "https://www.foodpanda.in/restaurant/v3zp/domino-s-chennai\r\n",
+	"brand": "DOMINOS",
+	"btitle": "Dominos (Chennai) home delivery in Chennai - Foodpanda",
+	"descriptions": "Order from Dominos (Chennai) online in Chennai | Home delivery Dominos (Chennai) menu, ratings and reviews from Dominos (Chennai) restaurant Chennai.",
+	"laddress": "No.5/354, 2nd Floor,1st Street,, Nandanam Extension,, Chennai, Tamil Nadu 600035",
+	"latitude": 12.956073,
+	"lid": 32,
+	"location": "CHENNAI",
+	"longitude": 80.18626
+}, {
+	"blink": "http://www.grabon.in/dominos-coupons/\r\n",
+	"brand": "DOMINOS",
+	"btitle": "Dominos Coupons, Offers Today ? Rs 146 OFF + 20% Coupon Codes",
+	"descriptions": "Visit GrabOn website to check super deals and special discounts such as Dominos Wednesday offers, Freaky Friday Offers, Dominos Weekend Offers and more; these offers are a great way to get tons of online discount coupon codes. ... Todays Special - Flat Rs 300 SuperCash On Pizzas ...",
+	"laddress": "Shop No: 45429, West Sivan Koil Street, Vadapalani, Chennai, Tamil Nadu 600026",
+	"latitude": 12.975143,
+	"lid": 33,
+	"location": "CHENNAI",
+	"longitude": 80.2199
+}, {
+	"blink": "https://www.zomato.com/Chennai",
+	"brand": "DOMINOS",
+	"btitle": "Dominos, Chennai - Zomato - Zomato",
+	"descriptions": "Dominos. Restaurant Locator. Contact details, menus, reviews for Dominos restaurants in Chennai.",
+	"laddress": "Old No. 19, New No. 684545, GST Road, Srirampuram, Thousand Lights West, Tambaram Sanatorium, Chennai, Tamil Nadu 600047",
+	"latitude": 13.023984,
+	"lid": 34,
+	"location": "CHENNAI",
+	"longitude": 80.17802
+}, {
+	"blink": "https://www.facebook.com/recipes/main%20dish%20recipes/pizzarecipes",
+	"brand": "DOMINOS",
+	"btitle": "Dominos Pizza India - Home | Facebook",
+	"descriptions": "Dominos Pizza India. 7.3M likes. Dominos Pizza India Official Page Order online https://pizzaonline.dominos.co.in Order on mobile:...",
+	"laddress": "4/345 ,41st floor,Old Mahabalipuram Road(OMR), Nehru Nagar, Kottivakkam, perungudi, Chennai, Tamil Nadu 600041",
+	"latitude": 13.027997,
+	"lid": 35,
+	"location": "CHENNAI",
+	"longitude": 80.27964
+}, {
+	"blink": "https://www.facebook.com/recipes/maindishrecipes/pizzarecipes\r\n",
+	"brand": "DOMINOS",
+	"btitle": "Dominos Pizza India - Home | Facebook",
+	"descriptions": "Dominos Pizza India. 7.3M likes. Dominos Pizza India Official Page Order online https://pizzaonline.dominos.co.in Order on mobile:...",
+	"laddress": "No454, Landmark Next to Ganapathiram Theatre, 105, LB Rd, Baktavatsalm Nagar, Adyar, Chennai, Tamil Nadu 600020",
+	"latitude": 13.026994,
+	"lid": 36,
+	"location": "CHENNAI",
+	"longitude": 80.26282
+}, {
+	"blink": "https://twitter.com/dominos?lang=en",
+	"brand": "DOMINOS",
+	"btitle": "Dominos Pizza (@dominos) | Twitter",
+	"descriptions": "The latest Tweets from Dominos Pizza (@dominos). The home of Dominos Pizza on Twitter. Hosted by the crew at Dominos HQ. Ann Arbor, MI.",
+	"laddress": "Shop No.A42 Nagappa Complex, 10/34 Narasingapuram Street, Anna Salai, Triplicane, Chennai, Tamil Nadu 600002",
+	"latitude": 13.024318,
+	"lid": 37,
+	"location": "CHENNAI",
+	"longitude": 80.17458
+}, {
+	"blink": "https://www.zomato.com/India/Chennai/Adyar",
+	"brand": "ZAITHOON",
+	"btitle": "Zaitoon, Adyar, Chennai - Restaurant - Zomato",
+	"descriptions": " Rating: 3.9 - ?1,718 votes - ?Price range: ?900 for two people (approx.) Exclusive of applicable taxes and charges, if any\r\nZaitoon does a very good job with their grilled chicken. ... Zaitoon ( adyar) had been a very common and obvious junction throughout my stay in Chennai . ... The other arabian food like kozi dazaz, BBQ chicken, Grilled chicken and of course the shawarma is the best in here.",
+	"laddress": "no 6545,1st floor,Arjuns Tower,100ft rd,, Chennai, Tamil Nadu 600026",
+	"latitude": 12.996678,
+	"lid": 38,
+	"location": "CHENNAI",
+	"longitude": 80.25582
+}, {
+	"blink": "https://www.zomato.com/India/Chennai/Velachery",
+	"brand": "ZAITHOON",
+	"btitle": "Zaitoon, Velachery, Chennai - Restaurant - Zomato",
+	"descriptions": "Rating: 3.8 - ?1,347 votes - ?Price range: ?900 for two people (approx.) Exclusive of applicable taxes and charges, if any\r\n362, Velachery Main Road, Velachery, Chennai. ... If you happen to visit this restaurant do try Grill chicken. ... We had other dishes like paneer butter masala, butter rotis , mutton masala , butter chicken masala, BBQ chicken and chilly paneer.",
+	"laddress": "#745 (Old No 38) Sharmi Devi Plaza, Near Cafe Coffee Day, Sardar Patel Rd, Little Mount, Guindy, Chennai, Tamil Nadu 600032",
+	"latitude": 12.984802,
+	"lid": 39,
+	"location": "CHENNAI",
+	"longitude": 80.235565
+}, {
+	"blink": "https://www.zomato.com/India/Chennai/AnnaNagarEast",
+	"brand": "ZAITHOON",
+	"btitle": "Zaitoon, Anna Nagar East, Chennai - Restaurant - Zomato",
+	"descriptions": " Rating: 3.9 - ?747 votes - ?Price range: ?900 for two people (approx.) Exclusive of applicable taxes and charges, if any\r\n119, D Block, 1st Main Road, Chintamani, Opposite Estillo Garment Shop, Anna Nagar East, Chennai. ... Restaurants around Anna Nagar East. ... 1, zaitoon menu, zaitoon anna nagar, zaitoon anna nagar east menu, zaitoon.",
+	"laddress": "Shop No. S545021, Ground Floor, Express Avenue,, Royapettah, Express Estate, Chennai, Tamil Nadu 600002",
+	"latitude": 12.972926,
+	"lid": 40,
+	"location": "CHENNAI",
+	"longitude": 80.219604
+}, {
+	"blink": "https://jusfood.com/restaurant/Zaitoon--/34/ind_restaurants_order/",
+	"brand": "ZAITHOON",
+	"btitle": "Order Food Online at Zaitoon | Food Home Delivery - Jusfood",
+	"descriptions": "Order food online at Zaitoon at Adyar Food Home Delivery \u0026 Take Away. Chinese | North Indian | Arabian | Mughalai.",
+	"laddress": "UG 2446, Forum Vijaya Mall, Arcot Road, Vadapalani, Chennai, Tamil Nadu 600026",
+	"latitude": 12.97326,
+	"lid": 41,
+	"location": "CHENNAI",
+	"longitude": 80.259254
+}, {
+	"blink": "https://twitter.com/Nike",
+	"brand": "NIKE",
+	"btitle": "Nike (@Nike) Â· Twitter",
+	"descriptions": "Never bet against Houston. pic.twitter.com/0mDkp0iâ€¦\r\n2 days ago Â· Twitter",
+	"laddress": "45 Ramakrishna Nagar, Mandaveli, Chennai, Tamil Nadu 600028",
+	"latitude": 12.988944,
+	"lid": 42,
+	"location": "CHENNAI",
+	"longitude": 80.21496
+}, {
+	"blink": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+	"brand": "NIKE",
+	"btitle": "Nike, Inc. - Wikipedia",
+	"descriptions": "Nike, Inc is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, ...\r\n?Origins and history Â· ?Products Â· ?Controversy Â· ?Marketing strategy",
+	"laddress": "11/49, Varadapuram, Kotturpuram, Chennai, Tamil Nadu 600085",
+	"latitude": 13.050492,
+	"lid": 43,
+	"location": "CHENNAI",
+	"longitude": 80.20809
+}, {
+	"blink": "https://www.myntra.com/NikeCollection",
+	"brand": "NIKE",
+	"btitle": "Nike - Exclusive Nike Online Store in India - Myntra",
+	"descriptions": "Nike online store in India. Shop from the latest collection of Nike apparels, footwear, accessories online at great prices from Myntra. ? Free Shipping ? COD ...",
+	"laddress": "No 145400 charmina store, Alwarpet, Chennai, Tamil Nadu 600018",
+	"latitude": 13.061194,
+	"lid": 44,
+	"location": "CHENNAI",
+	"longitude": 80.26096
+}, {
+	"blink": "https://en.wikipedia.org/wiki/Reebok",
+	"brand": "REEBOK",
+	"btitle": "Reebok - Wikipedia",
+	"descriptions": "Reebok is a global athletic footwear and apparel company, operating as a subsidiary of Adidas since 2005. Reebok produces and distributes fitness, running ...\r\n?Reebok Classic Â· ?Reebok Freestyle Â· ?Reebok Pump Â· ?Reebok Zig",
+	"laddress": "19/1A,454, Sundaram Ln, Salama Nagar, Purasaiwakkam, Chennai, Tamil Nadu 600007",
+	"latitude": 13.083191,
+	"lid": 45,
+	"location": "CHENNAI",
+	"longitude": 80.23899
+}, {
+	"blink": "https://shop4reebok.com/",
+	"brand": "REEBOK",
+	"btitle": "Reebok Official Shop | Reebok",
+	"descriptions": "Shop CrossFit, Spartan Race, Les Mills, Skyscape, ZJet and ZQuick shoes, Apparel and Shoes from the Official Reebok Store.\r\n?Reebok Official Shop | reebok Â· ?Sale Â· ?Smiley face",
+	"laddress": "45 65G N Cheety Road Phothys Boutique T Ngar, Chennai, Tamil Nadu 600017",
+	"latitude": 13.039045,
+	"lid": 46,
+	"location": "CHENNAI",
+	"longitude": 80.27607
+}, {
+	"blink": "https://twitter.com/Reebok",
+	"brand": "REEBOK",
+	"btitle": "Reebok (@Reebok) Â· Twitter",
+	"descriptions": ".@BFikowski pretty much sums up how we feel about the #CrossFitInvitational. Whoâ€™s excited for this weekendâ€™s competition? @CrossFitGames pic.twitter.com/a8rZLXpâ€¦\r\nNYC! Stop by our #Reebok FitHub @ 1 Union Square W RIGHT NOW to meet @paigevanzantufc @robwhittakermma \u0026 @brittneypalmer! #UFC217 @ufc\r\n",
+	"laddress": "P86allavan Nagar, Maduravoyal, Chennai, Tamil Nadu 600095",
+	"latitude": 12.888488,
+	"lid": 47,
+	"location": "CHENNAI",
+	"longitude": 80.24517
+}, {
+	"blink": "https://www.reebok.com/",
+	"brand": "REEBOK",
+	"btitle": "Reebok Footwear \u0026 Apparel - Be More Human",
+	"descriptions": "The Official Reebok Store. Shop the newest selection of footwear and apparel, from casual Classics to specialty fitness products. Free shipping for members.\r\n?Mens Shoes Â· ?Women Â· ?Men Â· ?CrossFit",
+	"laddress": "No.1576,Indian complex,opp mgr university,viswha nagar,, Chennai, Tamil Nadu 600095",
+	"latitude": 12.921953,
+	"lid": 48,
+	"location": "CHENNAI",
+	"longitude": 80.25066
+}, {
+	"blink": "https://www.justdial.com/ShoeDealersinPondyBazaar-ThyagarayaNagar",
+	"brand": "REEBOK",
+	"btitle": "Nike Store, Pondy Bazaar-Thyagaraya Nagar - Shoe Dealers in ...",
+	"descriptions": " Rating: 4.1 - ?546 votes\r\nNo 20/35 Apex Chamber Ground Floor Shop No 1, Sir Thiyagaraya Road, Pondy Bazaar-Thyagaraya Nagar, Chennai - 600017, Opposite Holyangels Convent School (Map) Shoe Dealers , School Bag Dealers ...more Shoe Dealers. ... Golf Bag Dealers-Nike.",
+	"laddress": "Door No 167623 Shop No 12 Ground Floor Arihant Vaikunt Complex Bricklin Road, Chennai, Tamil Nadu 600007",
+	"latitude": 12.955413,
+	"lid": 49,
+	"location": "CHENNAI",
+	"longitude": 80.135994
+}, {
+	"blink": "https://www.facebook.com/Reebok/",
+	"brand": "REEBOK",
+	"btitle": "Reebok - Home | Facebook",
+	"descriptions": "Reebok. 8361405 likes Â· 3510 talking about this Â· 1672 were here. At Reebok, we love fitness. Its what wakes us up in the morning, what we think...",
+	"laddress": "343 Anna Salai, Little Mount, West Saidapet, Chennai, Tamil Nadu 600015",
+	"latitude": 12.978492,
+	"lid": 50,
+	"location": "CHENNAI",
+	"longitude": 80.21942
+}]

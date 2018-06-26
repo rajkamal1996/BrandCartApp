@@ -1,0 +1,29 @@
+<div class="container-fluid " style=" background-image: url('assets/bg4.jpg');">
+  <div class="row" style="padding:130px;">
+  <div class="col-md-3">
+  </div>
+  <div class="col-md-6">
+  <form #userForm="ngForm" (ngSubmit)="loginSubmit(credentials)">
+  <div class="form-group">
+     <label>{{'HOME.EMAIL' | translate}} </label>
+     <input type="email" #emailTag="ngModel" minlength="4" class="form-control" name="email" [(ngModel)]="credentials.email" placeholder="{{'HOME.EMAIL' | translate}} " required>
+     <!-- <b>{{nameTag.className}}</b> -->
+     <div [hidden]="emailTag.valid|| emailTag.pristine" class="alert alert-danger">
+        Please Enter a valid email and name must contain minimum of 4 letters
+     </div>
+  </div>
+  <div class="form-group">
+     <label>{{'HOME.PASSWORD'  | translate}} </label>
+     <input type="password" #passwordTag="ngModel" minlength="4" maxlength="9" class="form-control" name="pwd " [(ngModel)]="credentials.pwd" placeholder="{{'HOME.PASSWORD'  | translate}}" required>
+     <div *ngIf="passwordTag.errors && (passwordTag.dirty || passwordTag.touched)" class="alert alert-danger">
+        <div [hidden]="!passwordTag.errors.required">
+           Please enter your password
+        </div>
+        <div [hidden]="!passwordTag.errors.minlength">
+           password must have minimum of 5 characters 
+        </div>
+     </div>
+  </div>
+  <a ><button routerLink="/search" routerLinkActive="active" type="submit" class="btn btn-primary">{{'HOME.LOGIN' | translate}}</button></a>
+  <button type="submit" class="btn btn-default"  routerLink="/signup" routerLinkActive="active">{{'HOME.REGISTER' | translate}}</button>
+  </form>

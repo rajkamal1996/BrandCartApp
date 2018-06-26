@@ -1,0 +1,36 @@
+{
+  "HOME": {
+    "TITLE": "Bonjour Angular 2 avec ng2-translate !",
+    "SELECT": "Changer la langue",
+    "EMAIL":"Adresse e-mail",
+    "PASSWORD":"Mot de passe",
+    "NAME":"பPRÉNOM",
+    "RE_PASSWORD":"RETAPER LE MOT DE PASSE",
+    "LOGIN":"S'IDENTIFIER",
+    "REGISTER":"REGISTRE",
+    "SEARCH" :"CHERCHER",
+    "ACER" :  "ACER",
+    "APPLE" : "POMME",
+    "ADIDAS" :"ADIDAS",
+    "NIKE": "NKE",
+    "BLACK FOREST":"FORÊT NOIRE",
+    "REEBOK":"REEBOK",
+    "DOMINOS":"DOMINOS",
+    "COPYRIGHT":"droits d'auteur",
+    "Rajkamal":"RajKamal",
+    "LEVIS":"LÉVI'S",
+    "LENOVO":"Lenovo",
+    "COAL BARBEQUE":"CHARBON BARBEQUE",
+    "ZAITHOON":"ZAITHON",
+    "STORE LOCATOR":"STORE LOCATOR"
+  
+  },
+  "LOGIN SUCCESSFUL":"Connexion réussie",
+  "Old No. 19, New. No. 8, 3rd Cross Street, Kasturiba Nagar, Chennai, Adyar, Tamil Nadu 600020":"Vieux n ° 19, nouveau. N ° 8, 3e rue transversale, Kasturiba Nagar, Chennai, Adyar, Tamil Nadu 600020",
+  "BRAND CART":"MARQUE PANIER",
+  "ADDRESS":"ADRESSE",
+  "No 41, Nungambakkam High Road, Nungambakkam, Chennai, Nungambakkam, Tamil Nadu 600034":"No 41, route de Nungambakkam, Nungambakkam, Chennai, Nungambakkam, Tamil Nadu 600034",
+  "Levis® Jeans, Jackets & Clothing | Levis® (US) Official Site":"Jeans, Vestes et Vêtements Levis® | Levis® (US) Site officiel",
+  "Mens Clothing - Shop Casual Clothes for Men | Levis®":" Vêtements pour hommes - Shop Vêtements décontractés pour hommes | Levis®"
+
+}

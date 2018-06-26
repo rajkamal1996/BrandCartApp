@@ -1,0 +1,13 @@
+form{
+    padding:50px; 
+    border:2px solid grey ; 
+    background: #ffffff8c;
+}
+.row{
+    padding:110px;
+}
+.container-fluid{
+   
+    background-size:cover;  
+    background-repeat: no-repeat;
+}

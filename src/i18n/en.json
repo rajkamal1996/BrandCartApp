@@ -1,0 +1,36 @@
+{
+  "HOME": {
+  "TITLE": "Hello Angular 2 with ng2-translate!",
+  "SELECT": "Change language",
+  "EMAIL":"Email address",
+  "NAME":"Name",
+  "PASSWORD":"Password",
+  "LOGIN":"LOGIN",
+  "RE_PASSWORD":"Re Enter Password",
+  "REGISTER":"REGISTER",
+  "SEARCH" : "SEARCH",
+  "ACER" : "ACER",
+  "APPLE" : "APPLE",
+  "ADIDAS" :"ADIDAS",
+  "NIKE": "NIKE",
+  "BLACK FOREST":"BLACK FOREST",
+  "REEBOK":"REEBOK",
+  "DOMINOS":"DOMINOS",
+  "COPYRIGHT":"COPYRIGHTS",
+  "Rajkamal":"RAJKAMAL",
+  "LEVIS":"LEVIS",
+  "LENOVO":"LENOVO",
+  "COAL BARBEQUE":"COAL BARBEQUE",
+  "ZAITHOON":"ZAITHOON",
+  "STORE LOCATOR":"STORE LOCATOR"
+  
+},
+"LOGIN SUCCESSFUL":"LOGIN SUCCESSFUL",
+"BRAND CART":"BRAND CART",
+"ADDRESS":"ADDRESS",
+"Old No. 19, New. No. 8, 3rd Cross Street, Kasturiba Nagar, Chennai, Adyar, Tamil Nadu 600020":"Old No. 19, New. No. 8, 3rd Cross Street, Kasturiba Nagar, Chennai, Adyar, Tamil Nadu 600020",
+"No 41, Nungambakkam High Road, Nungambakkam, Chennai, Nungambakkam, Tamil Nadu 600034":"No 41, Nungambakkam High Road, Nungambakkam, Chennai, Nungambakkam, Tamil Nadu 600034",
+  "Levis® Jeans, Jackets & Clothing | Levis® (US) Official Site":"Levis® Jeans, Jackets & Clothing | Levis® (US) Official Site",
+  "The official Levis® website has the best selection of Levis jeans, jackets, and clothing for men, women, & kids. Shop the entire collection today!    ?Men · ?Mens Jeans · ?Jeans · ?Levis": "The official Levis® website has the best selection of Levis jeans, jackets, and clothing for men , women, & kids. Shop the entire collection today!   Men · Mens Jeans · Jeans · Levis"
+  
+}

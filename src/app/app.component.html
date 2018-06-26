@@ -1,0 +1,27 @@
+  <router-outlet></router-outlet>
+
+    <footer class = "mdl-mini-footer">
+    <div class = "mdl-mini-footer__left-section">
+       <div class = "mdl-logo">
+        {{'HOME.COPYRIGHT' | translate}}   &copy;   {{'HOME.Rajkamal' | translate}} 
+       </div>
+    </div>
+
+    <div class = "mdl-mini-footer__right-section">
+      {{'HOME.SELECT' | translate}} 
+      <select #langSelect (change)="translate.use(langSelect.value)">
+        <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
+      </select>
+    </div>
+
+    <div class = "mdl-mega-footer__bottom-section">
+      <div class = "mdl-logo">
+        {{'HOME.SELECT' | translate}} 
+      </div>
+      <ul class = "mdl-mini-footer__link-list">
+         <li><a  (click)="translate.use('en')" >ENGLISH</a></li>
+         <li><a  (click)="translate.use('tm')">TAMIL</a></li>
+         <li><a  (click)="translate.use('fr')">FRENCH</a></li>
+      </ul>
+   </div>
+  </footer>
