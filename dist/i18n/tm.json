@@ -1,0 +1,35 @@
+{
+  "HOME": {
+    "SELECT": "மொழியை மாற்றவும்",
+    "EMAIL":"மின்னஞ்சல் முகவரி",
+    "PASSWORD":"கடவுச்சொல்",
+    "LOGIN":"பயனர் உள் நுழை",
+    "REGISTER":"பதிவு",
+    "NAME":"பெயர்",
+    "RE_PASSWORD":"கடவுசொல்லை திருப்பி உள்ளிடு",
+    "SEARCH" : "தேடல்",
+    "ACER" : "ஏசர்",
+    "APPLE" : "ஆப்பிள்",
+    "ADIDAS" :"அடிதாஸ்",
+    "NIKE": "நைக்",
+    "BLACK FOREST":"பிளாக் ஃபாரஸ்ட்",
+    "REEBOK":"ரீபோக்",
+    "DOMINOS":"டோமினோஸ்",
+    "COPYRIGHT":"பதிப்புரிமை",
+    "Rajkamal":"ராஜ் கமல்",
+    "LEVIS":"லீவிஸ்",
+    "LENOVO":"லெனோவா",
+    "COAL BARBEQUE":"கோல் பார்பெக்யூ",
+    "ZAITHOON" : "சாய்டூன்",
+    "STORE LOCATOR":"ஸ்டோர் லொக்கேட்டர்"
+  
+  },
+  "LOGIN SUCCESSFUL":"உள்நுழைவு வெற்றிகரமாக",
+  "BRAND CART":"பிராண்ட் கார்ட்",
+  "ADDRESS":"முகவரி",
+  "Old No. 19, New. No. 8, 3rd Cross Street, Kasturiba Nagar, Chennai, Adyar, Tamil Nadu 600020":"பழைய எண் 19, புதியது. 8, 3 வது குறுக்கு தெரு, கஸ்தூரிபா நகர், சென்னை, அடையார், தமிழ்நாடு 600020",
+  "No 41, Nungambakkam High Road, Nungambakkam, Chennai, Nungambakkam, Tamil Nadu 600034":"No 41, நுங்கம்பாக்கம் நெடுஞ்சாலை, நுங்கம்பாக்கம், சென்னை, நுங்கம்பாக்கம், தமிழ்நாடு 600034",
+  "Levis® Jeans, Jackets & Clothing | Levis® (US) Official Site":"லெவிஸ் ® ஜீன்ஸ், ஜாக்கெட்டுகள் & ஆடை | லெவிஸ் ® (அமெரிக்க) அதிகாரப்பூர்வ தளம்",
+  "Mens Clothing - Shop Casual Clothes for Men | Levis®":"ஆண்கள் ஆடை - கடை சாதாரண ஆண்கள் ஆடை | Levis®"
+  
+  }
